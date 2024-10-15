@@ -14,6 +14,10 @@ pairs = [
         ["Hello!", "Hey there!",]
     ],
     [
+        r"yo",
+        ["yo, how are you"]
+    ],
+    [
         r"what is your name?",
         ["I am a chatbot created by Vruchi. You can call me Chandramukhi.",]
     ],
