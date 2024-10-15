@@ -39,7 +39,7 @@ pairs = [
     ],
     [
         r"what can you do|what are your capabilities",
-        ["I can chat with you about various topics, answer questions, and provide information on a wide range of subjects.", "I'm a conversational AI, so I can understand and respond to natural language inputs."]
+        ["I can converse with you"]
     ],
     [
         r"tell me a joke",
@@ -47,7 +47,7 @@ pairs = [
     ],
     [
         r"how old are you|when were you created",
-        ["I don't have a physical body, so I don't have an age.", "I was created in [insert year/month], but I'm constantly learning and improving!"]
+        ["I don't have a physical body, so I don't have an age.", "Idk ask my developer, but I'm constantly learning and improving!"]
     ],
     [
         r"do you have feelings|are you emotional",
