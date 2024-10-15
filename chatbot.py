@@ -19,7 +19,7 @@ pairs = [
     ],
     [
         r"what is your name?",
-        ["I am a chatbot created by Vruchi. You can call me Chandramukhi.",]
+        ["I am a chatbot created by Vruchi. You can call me siri.",]
     ],
     [
         r"how are you?",
